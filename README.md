@@ -56,4 +56,12 @@ Il est également nécessaire d'afficher les graphiques matplotlib en mode fenê
 
 3. Recupérer les fichiers, ils devraient se trouver dans un sous dossier `_build/`
 
+## Valeurs des codes qualités et leur signification
+Code	Signification
+0	Contrôle qualité (QC) non effectué
+1	QC effectué : bonne donnée
+2	QC effectué : probablement bonne donnée
+3	QC effectué : probablement mauvaise donnée
+4	QC effectué : mauvaise donnée
+9	Donnée manquante
 
